@@ -41,22 +41,6 @@ body {
 
 
 /* Project Page */
-.project-col {
-  width: 150px;
-  height: 150px
-  ;
-  padding: 10px;
-  margin: 0;
-  box-sizing: border-box;
-  aspect-ratio: 1.0;
-  
-  border: solid;
-  border-width: 3px;
-  border-color: black;
-
-
-}
-
 
 
 /* About page */
